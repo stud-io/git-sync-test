@@ -1,3 +1,3 @@
 # git-sync-test
 
-A simple project to test git syncing between git.logius.nl, git.rijksapps.nl and github. Which now has changes.
+A simple project to test git syncing with a diverging branch on one of the remotes. Oh joy.
