@@ -5,3 +5,5 @@ A simple project to test git syncing with a diverging branch on one of the remot
 Push it!
 
 Now coming live FROM GitHub to GitLab to GitHub again :tada:
+
+Let's auto-generate an MR!
