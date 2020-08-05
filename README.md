@@ -6,4 +6,4 @@ Push it!
 
 Now coming live FROM GitHub to GitLab to GitHub again :tada:
 
-Let's auto-generate an MR!
+Let's auto-generate an MR! For real!
